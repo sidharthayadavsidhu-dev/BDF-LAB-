@@ -6,9 +6,7 @@
 
 **Section:** 111
 
-## Live link
-
-Not deployed. This lab uses a local SQLite database file. No public hosting service or persistent disk has been configured for this project. The API can be run locally and tested with the included Postman collection.
+## Live link https://bds-lab-2.onrender.com/
 
 ## How to run
 
