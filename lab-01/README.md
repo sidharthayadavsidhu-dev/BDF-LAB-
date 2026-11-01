@@ -4,7 +4,7 @@
 **Registration number:** 252U1R9102  
 **Section:** CSE(GAI)2B
 
-**Live link:** Not deployed. A hosting account and deployment authorization were not available in this workspace.
+**Live link:** https://bdf-lab-01.vercel.app/
 
 ## How to install and run
 
