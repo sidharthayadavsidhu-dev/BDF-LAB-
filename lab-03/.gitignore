@@ -1,0 +1,21 @@
+# Byte-compiled / optimised / DLL files
+node_modules/
+
+# SQLite database files
+data/*.db
+data/*.db-shm
+data/*.db-wal
+
+# Environment variables – NEVER commit
+.env
+.env.*
+!.env.example
+
+# OS cruft
+.DS_Store
+Thumbs.db
+
+# Editor directories
+.vscode/
+.idea/
+
